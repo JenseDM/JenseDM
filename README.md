@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **.Net 8, Blazor, Angular.**
 
-- 🌱 I'm interested in scalable software design and so I am learning how to implement architecture patterns and best practices in **.NET Core.**”
+- 🌱 I´m interested in scalable software and that is why I am learning **.NET Core architecture.**
 
 - ☁️ I've keen interest in UI/UX design. So,I'm learning **Figma**
   
