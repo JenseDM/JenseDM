@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in c# language. So,I'm learning **.Net 8 and asp.Net core 8**
   
 - 💬 Ask me about **.Net 8, FastAPI, Angular, nodejs, SQL database**
 
