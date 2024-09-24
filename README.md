@@ -1,37 +1,102 @@
-<div align="center" width="50">
-    <img alt="Banner Jense dev" src="https://github.com/JenseDM/JenseDM/blob/main/bannerGit.png" width="400"/>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+  </ul>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jense David</h1>
 
-## About Me :
 
-- 🏢 I am currently a **Systems Engineering student** at the [Universidad tecnológica de Pereira (UTP)](https://www.utp.edu.co/)
-- 🏡'Lives in **Pereira, Colombia**
-- ⚡ **Fun Facts** : 🍕 🏋️  🎥 🎮
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-<br>
 
-## Contact me ☕ :
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-<br>
 
-[![@jense_martinez](https://img.icons8.com/fluency/48/000000/instagram-new.png "@jense_martinez")](https://www.instagram.com/jense_martinez/) [![@jense_martinez](https://img.icons8.com/fluency/48/000000/linkedin.png "@jense_martinez")](https://www.linkedin.com/in/jense_martinez/) [![@3187213958](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@3187213958")](tel:3187213958) [![@jense.martinez@utp.edu.co](https://img.icons8.com/fluency/48/000000/apple-mail.png "@jense.martinez@utp.edu.co")](jense.martinez@utp.edu.co)
+<!--Intro start-->
+- 🔭 I’m currently working on **.Net 8, Blazor, Angular.**
 
-<br>
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-## My skills 🧑‍💻 :
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+  
+- 💬 Ask me about **.Net 8, FastAPI, Angular, nodejs, SQL database**
 
-<br>
+- 📫 Feel free to reach me out **jensemartinez@gmail.com**
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/angular--v1.png"/> <img src="https://img.icons8.com/color/48/000000/django.png"/>
+<!--Intro end-->
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
 
-<br>
 
-## GitHub Stats 📈 :
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JenseDM&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JenseDM&theme=dark&hide_border=false" /> 
+</td>
 
-<br>
+<td width="50%" align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JenseDM&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![JenseDM GitHub stats](https://github-readme-stats.vercel.app/api?username=JenseDM&theme=algolia)](https://github.com/JenseDM/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JenseDM&theme=algolia)](https://github.com/JenseDM/github-readme-stats) 
-<br>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JenseDM&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,angular,express,figma,github,java,mysql,nextjs,nodejs,postman,py,ts,vscode,bootstrap,cs,dotnet,visualstudio,fastapi&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="www.linkedin.com/in/jense-david-martinez-tobón-9582a2322" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
+<a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+</p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+
+Last Edited on: 24/09/2024
