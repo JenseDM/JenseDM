@@ -31,7 +31,7 @@
 
 - ☁️ I've keen interest in UI/UX design. So,I'm learning **Figma**
   
-- 💬 Ask me about **.Net 8, FastAPI, Angular, nodejs, SQL database**
+- 💬 Ask me about **.Net 8, FastAPI, Angular, SQL database**
 
 - 📫 Feel free to reach me out **jensemartinez@gmail.com**
 
@@ -74,7 +74,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,angular,express,figma,github,java,mysql,nextjs,nodejs,postman,py,ts,vscode,bootstrap,cs,dotnet,visualstudio,fastapi&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,angular,figma,github,java,mysql,postman,py,ts,vscode,bootstrap,cs,dotnet,visualstudio,fastapi&perline=14" />
   </a>
 </p>
 
